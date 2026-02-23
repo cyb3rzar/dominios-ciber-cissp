@@ -15,17 +15,17 @@ Incluye:
 
 - Compliance y regulaciones
 
-Ética profesional
+- Ética profesional
 
-Políticas y procedimientos
+- Políticas y procedimientos
 
-Business Continuity (BCP)
+- Business Continuity (BCP)
 
-Gestión de terceros
+- Gestión de terceros
 
 💡 Piensa: cómo se gobierna la seguridad en la empresa.
 
-2️⃣ Asset Security
+#2️⃣ Asset Security
 
 (Seguridad de Activos)
 
