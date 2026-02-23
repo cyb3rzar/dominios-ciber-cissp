@@ -1,4 +1,4 @@
-# dominios-ciber-cissp
+# 8 Dominios de la Ciberseguridad de CISSP 
 8 dominios de Ciberseguridad por CISSP
 🔐 Dominios de Ciberseguridad del CISSP (8 Domains)
 1️⃣ Security and Risk Management
@@ -9,11 +9,11 @@
 
 Incluye:
 
-Gobernanza de seguridad
+- Gobernanza de seguridad
 
-Gestión de riesgos
+- Gestión de riesgos
 
-Compliance y regulaciones
+- Compliance y regulaciones
 
 Ética profesional
 
