@@ -77,7 +77,7 @@ Incluye:
 - Control de acceso (RBAC, ABAC)
 - Identity lifecycle
 
-💡 Principio clave: Least Privilege.
+💡 Principio clave: Least Privilege.  
 
 
 6️⃣ Security Assessment and Testing
@@ -128,9 +128,9 @@ Incluye:
 
 
 🧭 Relación con roles reales
-Rol	Dominios más usados
-SOC Analyst	4, 6, 7
-Pentester	3, 4, 6, 8
-GRC	1, 2, 5
-Security Architect	1, 3, 4, 5
-CISO	TODOS
+Rol	Dominios más usados:
+- SOC Analyst	4, 6, 7
+- Pentester	3, 4, 6, 8
+- GRC	1, 2, 5
+- Security Architect	1, 3, 4, 5
+- CISO	TODOS
