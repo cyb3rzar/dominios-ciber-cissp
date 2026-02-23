@@ -1,8 +1,7 @@
-# 8 Dominios de la Ciberseguridad de CISSP 
-8 dominios de Ciberseguridad por CISSP
-🔐 Dominios de Ciberseguridad del CISSP (8 Domains)
+# Dominios de la Ciberseguridad
+🔐 8 Dominios de Ciberseguridad del CISSP (8 Domains)<br><br>    
 
-1️⃣ Security and Risk Management 
+### 1️⃣ Security and Risk Management 
 (Gestión de Seguridad y Riesgos)
 
 👉 Es la base de todo CISSP.
@@ -16,10 +15,10 @@ Incluye:
 - Business Continuity (BCP)
 - Gestión de terceros
 
-💡 Piensa: cómo se gobierna la seguridad en la empresa.
+💡 Piensa: cómo se gobierna la seguridad en la empresa.<br><br>
+    
 
-
-2️⃣ Asset Security
+### 2️⃣ Asset Security    
 (Seguridad de Activos)
 
 Protección de la información según su valor.
@@ -31,10 +30,10 @@ Incluye:
 - Data ownership
 - Privacidad
 
-💡 Ejemplo: datos confidenciales vs públicos.
+💡 Ejemplo: datos confidenciales vs públicos.<br><br>
 
 
-3️⃣ Security Architecture and Engineering
+### 3️⃣ Security Architecture and Engineering
 (Arquitectura e Ingeniería de Seguridad)
 
 Diseño seguro de sistemas.
@@ -46,10 +45,10 @@ Incluye:
 - Secure design principles
 - Evaluaciones de seguridad
 
-💡 Aquí entra bastante teoría técnica.
+💡 Aquí entra bastante teoría técnica.<br><br>
 
 
-4️⃣ Communication and Network Security
+### 4️⃣ Communication and Network Security
 (Seguridad de Redes y Comunicaciones)
 
 Uno de los dominios más técnicos.
@@ -62,10 +61,10 @@ Incluye:
 - Segmentación de red
 - Arquitecturas Zero Trust
 
-💡 Muy relacionado con trabajo SOC y networking.
+💡 Muy relacionado con trabajo SOC y networking.<br><br>
 
 
-5️⃣ Identity and Access Management (IAM)
+### 5️⃣ Identity and Access Management (IAM)
 (Gestión de Identidades y Accesos)
 
 Control de quién accede a qué.
@@ -77,10 +76,10 @@ Incluye:
 - Control de acceso (RBAC, ABAC)
 - Identity lifecycle
 
-💡 Principio clave: Least Privilege.  
+💡 Principio clave: Least Privilege.<br><br> 
 
 
-6️⃣ Security Assessment and Testing
+### 6️⃣ Security Assessment and Testing
 (Evaluación y Pruebas de Seguridad)
 
 Validar que la seguridad funciona.
@@ -92,10 +91,10 @@ Incluye:
 - Security metrics
 - Continuous monitoring
 
-💡 Aquí viven pentesters y auditores.
+💡 Aquí viven pentesters y auditores.<br><br>
 
 
-7️⃣ Security Operations
+### 7️⃣ Security Operations
 (Operaciones de Seguridad)
 
 El día a día defensivo.
@@ -109,10 +108,10 @@ Incluye:
 - DRP (Disaster Recovery)
 - Threat Intelligence
 
-💡 Este dominio pesa mucho para analistas SOC (tu área).
+💡 Este dominio pesa mucho para analistas SOC (tu área).<br><br>
 
 
-8️⃣ Software Development Security
+### 8️⃣ Software Development Security
 (Seguridad en Desarrollo de Software)
 
 Seguridad dentro del SDLC.
@@ -124,10 +123,10 @@ Incluye:
 - Testing de aplicaciones
 - Control de cambios
 
-💡 Importante aunque no seas desarrollador.
+💡 Importante aunque no seas desarrollador.<br><br>
 
 
-🧭 Relación con roles reales
+### 🧭 Relación con roles reales
 Rol	Dominios más usados:
 - SOC Analyst	4, 6, 7
 - Pentester	3, 4, 6, 8
